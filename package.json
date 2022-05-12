@@ -34,5 +34,8 @@
   },
   "devDependencies": {
     "stylelint": "^14.8.2"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
