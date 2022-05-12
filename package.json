@@ -1,6 +1,6 @@
 {
   "name": "@shlinkio/stylelint-config-css-coding-standard",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Coding standard used by Shlink projects for stylesheets",
   "main": "index.js",
   "repository": {
