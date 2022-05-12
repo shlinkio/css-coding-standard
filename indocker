@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose run shlink_css_coding_standard_node /bin/sh -c "cd /home/shlink && $*"
