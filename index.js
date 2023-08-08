@@ -9,8 +9,9 @@ module.exports = {
     'stylelint-selector-bem-pattern'
   ],
   rules: {
-    'string-quotes': 'single',
-    'number-leading-zero': 'never',
+    'import-notation': 'string',
+    'selector-not-notation': 'simple',
+    'media-query-no-invalid': null,
     'selector-pseudo-element-colon-notation': null,
     'alpha-value-notation': null,
     'scss/at-import-partial-extension': null,
