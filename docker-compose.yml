@@ -1,8 +1,7 @@
-version: '3'
-
 services:
   shlink_css_coding_standard_node:
     container_name: shlink_css_coding_standard_node
-    image: node:20.3-alpine
+    user: 1000:1000
+    image: node:22.10-alpine
     volumes:
       - ./:/home/shlink
