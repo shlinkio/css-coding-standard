@@ -30,10 +30,10 @@
     "stylelint-selector-bem-pattern": "^3.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^15.10"
+    "stylelint": "^16.14"
   },
   "devDependencies": {
-    "stylelint": "^15.10"
+    "stylelint": "^16.14"
   },
   "files": [
     "dist"
